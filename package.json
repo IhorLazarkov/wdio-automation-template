@@ -1,0 +1,11 @@
+{
+  "name": "wdio-automation-template",
+  "version": "1.0.0",
+  "description": "This is template of automation project that uses webdriverio",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "ilazarkov@gmail.com",
+  "license": "ISC"
+}
