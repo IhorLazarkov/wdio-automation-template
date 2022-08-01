@@ -20,4 +20,4 @@ $ npx wdio run test/wdio.conf.ts
 Adding scripts to package.json
 
 🤖 Successfully setup project at /Users/ilazarkov/Development/VSCodeProjects/Learning_JS_automation/wdio-automation-template 🎉
-To start the test, run: $ npm run wdio
+To start the test, run: $ npm test
