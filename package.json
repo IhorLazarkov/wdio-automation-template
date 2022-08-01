@@ -4,8 +4,7 @@
     "description": "This is template of automation project that uses webdriverio",
     "main": "index.js",
     "scripts": {
-        "test": "test",
-        "wdio": "wdio run test/wdio.conf.ts"
+        "test": "wdio run test/wdio.conf.ts"
     },
     "author": "ilazarkov@gmail.com",
     "license": "ISC",
